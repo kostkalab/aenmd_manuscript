@@ -1,0 +1,16 @@
+AENMD Annotation of Benign Clinvar Variants - Unique Variants,,
+functional_class,value,percent
+PTC,960,0.912
+Transcript_dependent_PTC,5,0.0048
+    NMD_escaping,614,63.6269
+    NMD_triggering,340,35.2332
+    Transcript_dependent,11,1.1399
+    NMD_escaping_canonical_rules,446,46.2176
+    NMD_triggering_canonical_rules,502,52.0207
+    Transcript_dependent_canonical_rules,17,1.7617
+    NMD_escaping_noncanonical_rules,431,44.6632
+    NMD_triggering_noncanonical_rules,527,54.6114
+    Transcript_dependent_noncanonical_rules,7,0.7254
+            NMD_escaping_>407bp_rule,369,38.2383
+            NMD_escaping_start_proximal_rule,86,8.9119
+            NMD_escaping_single_exon_rule,43,4.456

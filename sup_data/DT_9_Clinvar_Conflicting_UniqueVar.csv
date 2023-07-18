@@ -1,0 +1,16 @@
+AENMD Annotation of Uncertain and Conflicting Clinvar Variants - Unique Variants,,
+functional_class,value,percent
+PTC,12220,11.609
+Transcript_dependent_PTC,91,0.086
+    NMD_escaping,6217,50.5
+    NMD_triggering,5924,48.12
+    Transcript_dependent,170,1.381
+    NMD_escaping_canonical_rules,4399,35.732
+    NMD_triggering_canonical_rules,7750,62.952
+    Transcript_dependent_canonical_rules,162,1.316
+    NMD_escaping_noncanonical_rules,3761,30.55
+    NMD_triggering_noncanonical_rules,8433,68.5
+    Transcript_dependent_noncanonical_rules,117,0.95
+            NMD_escaping_>407bp_rule,3235,26.277
+            NMD_escaping_start_proximal_rule,771,6.263
+            NMD_escaping_single_exon_rule,220,1.787

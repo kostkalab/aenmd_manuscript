@@ -1,0 +1,17 @@
+functional_class,number,percent
+ptc_causing_pairs,437,NA
+nmd_escaping_pairs,214,48.97
+nmd_triggering_pairs,223,51.03
+transcript_per_variant,1.62,NA
+nmd_escaping_canon_rules_pairs,150,34.32
+nmd_triggering_canon_rules_pairs,287,65.68
+nmd_escaping_noncanon_rules_pairs,148,33.87
+nmd_triggering_noncanonical_rules_pairs,289,66.13
+nmd_escaping_407_rule_pairs,109,24.94
+nmd_escaping_start_rule_pairs,46,10.53
+nmd_escaping_single_exon_rule_pairs,13,2.97
+nmd_escaping_annotation_per_nmd_escape_variant_tx_pair,1.43,NA
+ptc_causing_canon_tx_pairs,244,NA
+nmd_escaping_canon_tx_pairs,123,50.41
+nmd_triggering_canon_tx_pairs,121,49.59
+transcript_per_variant_canon_tx,1,NA

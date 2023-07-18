@@ -1,0 +1,21 @@
+Overlap of PTC causing Variant-Transcript Pairs Annotated by AENMD and VEP,,
+functional_class,value,percent
+AENMDandVEP_overlap_PTC_causing,75839,NA
+        AENMDandVEP_overlapStopgains_posStrand_total,35215,46
+        AENMDandVEP_overlapStopgains_negStrand_total,40624,54
+    VEP_overlapStopgains_NMDesc_total,13455,18
+        VEP_overlapStopgains_NMDesc_posStrand_total,5817,43
+        VEP_overlapStopgains_NMDesc_negStrand_total,7638,57
+    VEP_overlapStopgains_NMDdeg_total,62384,82
+        VEP_overlapStopgains_NMDdeg_posStrand_total,29398,47
+        VEP_overlapStopgains_NMDdeg_negStrand_total,32986,53
+    AENMD_overlapStopgains_NMDesc_total,13779,18
+        AENMD_overlapStopgains_NMDesc_posStrand_total,5927,43
+        AENMD_overlapStopgains_NMDesc_negStrand_total,7852,57
+    AENMD_overlapStopgains_NMDdeg_total,62060,82
+        AENMD_overlapStopgains_NMDdeg_posStrand_total,29288,47
+        AENMD_overlapStopgains_NMDdeg_negStrand_total,32772,53
+VEP_AENMD_Intrsct_Both_NMDesc,12683,16.7
+VEP_AENMD_Intrsct_Both_NMDdeg,61288,80.8
+VEP_AENMD_Intrsct_AENMD_NMDesc_notVEP,1096,1.4
+VEP_AENMD_Intrsct_VEP_NMDesc_notAENMD,772,1

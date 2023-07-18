@@ -1,0 +1,19 @@
+AENMD Annotation of Clinvar - Unique Variants,,
+functional_class,value,percent
+Variants_in_the_original_dataset,1572399,NA
+    Variants_coding_our_tx_set,1035485,65.85383227
+        AENMD_annotated_PTC_causing,106554,10.29
+        Transcript_dependent_PTC,617,0.06
+            NMD_escaping,38559,35.98
+            NMD_triggering,66178,61.75
+            Transcript_dependent,2434,2.27
+            NMD_escaping_canonical_rules,16474,15.37
+            NMD_triggering_canonical_rules,87006,81.18
+            Transcript_dependent_canonical_rules,3691,3.44
+            NMD_escaping_noncanonical_rules,30921,28.85
+            NMD_triggering_noncanonical_rules,74949,69.93
+            Transcript_dependent_noncanonical_rules,1301,1.21
+                      NMD_escaping_>407bp_rule,27039,25.23
+                      NMD_escaping_start_proximal_rule,6022,5.62
+                     NMD_escaping_single_exon_rule,1387,1.29
+        NMD_escaping_annotation_per_NMD_escape_variant,1.3,   NA

@@ -1,0 +1,18 @@
+functional_class,value,percent
+Variants_in_the_original_dataset,14951900,NA
+Variants_coding_our_tx_set,7375683,49.3294029521332
+AENMD_annotated_PTC_causing,298598.0, 4.048
+Transcript_dependent_PTC,  1436.0, 0.019
+NMD_escaping,142942.0,47.642
+NMD_triggering,151440.0,50.474
+Transcript_dependent,  5652.0, 1.884
+NMD_escaping_canonical_rules, 92524.0,30.838
+NMD_triggering_canonical_rules,200832.0,66.936
+Transcript_dependent_canonical_rules,  6678.0, 2.226
+NMD_escaping_noncanonical_rules,106693.0,35.560
+NMD_triggering_noncanonical_rules,190070.0,63.349
+Transcript_dependent_noncanonical_rules,  3271.0, 1.090
+NMD_escaping_>407bp_rule, 89053.0,29.681
+NMD_escaping_start_proximal_rule, 25393.0, 8.463
+NMD_escaping_single_exon_rule, 20033.0, 6.677
+NMD_escaping_annotation_per_NMD_escape_variant,     1.6,    NA

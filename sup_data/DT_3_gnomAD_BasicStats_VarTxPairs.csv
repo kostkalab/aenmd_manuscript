@@ -1,0 +1,17 @@
+functional_class,value,percent
+AENMD_annotated_PTC_causing,477142.0,  NA
+NMD_escaping,218308.0,45.8
+NMD_triggering,258834.0,54.2
+Transcripts_per_variant,     1.6,  NA
+NMD_escaping_canonical_rules,136991.0,28.7
+NMD_triggering_canonical_rules,340151.0,71.3
+NMD_escaping_noncanonical_rules,159990.0,33.5
+NMD_triggering_noncanonical_rules,317152.0,66.5
+NMD_escaping_>407bp_rule,128584.0,26.9
+NMD_escaping_start_proximal_rule, 37399.0, 7.8
+NMD_escaping_single_exon_rule, 20396.0, 4.3
+NMD_escaping_annotation_per_NMD_escape_variant_tx_pair,     1.5,  NA
+PTC_causing_canonical_transcripts,252864.0,  NA
+NMD_escaping_canon_tx,118984.0,47.1
+NMD_triggering_canon_tx,133880.0,52.9
+Transcripts_per_variant_canon_tx,     1.0,  NA

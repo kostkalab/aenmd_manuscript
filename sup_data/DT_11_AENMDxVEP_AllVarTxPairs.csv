@@ -1,0 +1,12 @@
+AENMD and VEP annotation of Clinvar - Variant Transcript Pairs,,
+functional_class,value,percent
+AENMD_VEPsettings_Clinvar_AllPTCcausing,203462,NA
+vep_clinvar_stopgains_total,77001,NA
+    vep_clinvar_posStrand_total,35704,46
+    vep_clinvar_negStrand_total,41297,54
+    vep_clinvar_NMDesc_total,13699,18
+        vep_clinvar_NMDesc_posStrand_total,5906,43
+        vep_clinvar_NMDesc_negStrand_total,7793,57
+    vep_clinvar_NMDdeg_total,63302,82
+        vep_clinvar_NMDdeg_posStrand_total,29798,47
+        vep_clinvar_NMDdeg_negStrand_total,33504,53
